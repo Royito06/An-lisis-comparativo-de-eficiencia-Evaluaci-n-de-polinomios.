@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1744406243 source:c:\users\alb3r\onedrive\documentos\programacion\evaluaciondepolinomios\gestiones.cpp
+	"Gestiones.h"
+	<cmath>
+	<random>
+
+1744406243 c:\users\alb3r\onedrive\documentos\programacion\evaluaciondepolinomios\gestiones.h
+	<vector>
+
+1744406243 source:c:\users\alb3r\onedrive\documentos\programacion\evaluaciondepolinomios\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<vector>
+	<iomanip>
+	"Gestiones.h"
+
+1744484726 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\analisisdeeficiencia\gestion.cpp
+	<cmath>
+	<random>
+	"Gestion.h"
+
+1744484726 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\analisisdeeficiencia\gestion.h
+	<vector>
+
